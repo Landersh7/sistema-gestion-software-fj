@@ -15,4 +15,4 @@ la forma de ejecutarlo o ponerlo a funcionar es la siguiente
    bash
    python main.py
    ```
-   En algunos casos solo toca darle f5 que es el atajo y ya funciona
+   En algunos programas solo toca darle f5 que es el atajo y ya funciona
