@@ -11,6 +11,8 @@ Este es el proyecto desarrollado para la Fase 4, este es un sistema hecho en Pyt
 la forma de ejecutarlo o ponerlo a funcionar es la siguiente
 1. Primero se abre el terminal en la carpeta donde se tienen todos los archivos
 2. Luego se ejecuta el programa principal con este comando:
-   ```bash
-   python main.py```
+   ```
+   bash
+   python main.py
+   ```
    En algunos casos solo toca darle f5 que es el atajo y ya funciona
