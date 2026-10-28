@@ -1,0 +1,50 @@
+2026-10-27 22:43:01,064 - INFO - prueba 1: cliente registrado con éxito -> carlos pérez
+2026-10-27 22:43:01,065 - INFO - prueba 2: cliente registrado con éxito -> ana gómez
+2026-10-27 22:43:01,065 - ERROR - error controlado en la prueba 3: este cliente ya está registrado en el sistema
+2026-10-27 22:43:01,068 - INFO - prueba 4: reserva creada con éxito para carlos pérez
+2026-10-27 22:43:01,068 - ERROR - error controlado en la prueba 5: el presupuesto no alcanza para cubrir el servicio
+2026-10-27 22:43:01,069 - INFO - prueba 6: reserva creada con éxito para ana gómez
+2026-10-27 22:43:01,069 - ERROR - error controlado en la prueba 7: el cliente no se encuentra registrado en el sistema
+2026-10-27 22:43:01,070 - ERROR - error controlado en la prueba 8: el servicio elegido no existe
+2026-10-27 22:43:01,071 - ERROR - error controlado en la prueba 9: el nombre del cliente no puede estar vacío
+2026-10-27 22:43:01,071 - INFO - prueba 10: reserva creada con éxito para ana gómez
+2026-10-27 22:43:13,224 - INFO - prueba 1: cliente registrado con éxito -> carlos pérez
+2026-10-27 22:43:13,225 - INFO - prueba 2: cliente registrado con éxito -> ana gómez
+2026-10-27 22:43:13,225 - ERROR - error controlado en la prueba 3: este cliente ya está registrado en el sistema
+2026-10-27 22:43:13,226 - INFO - prueba 4: reserva creada con éxito para carlos pérez
+2026-10-27 22:43:13,226 - ERROR - error controlado en la prueba 5: el presupuesto no alcanza para cubrir el servicio
+2026-10-27 22:43:13,227 - INFO - prueba 6: reserva creada con éxito para ana gómez
+2026-10-27 22:43:13,227 - ERROR - error controlado en la prueba 7: el cliente no se encuentra registrado en el sistema
+2026-10-27 22:43:13,228 - ERROR - error controlado en la prueba 8: el servicio elegido no existe
+2026-10-27 22:43:13,228 - ERROR - error controlado en la prueba 9: el nombre del cliente no puede estar vacío
+2026-10-27 22:43:13,229 - INFO - prueba 10: reserva creada con éxito para ana gómez
+2026-10-27 22:43:14,672 - INFO - prueba 1: cliente registrado con éxito -> carlos pérez
+2026-10-27 22:43:14,673 - INFO - prueba 2: cliente registrado con éxito -> ana gómez
+2026-10-27 22:43:14,673 - ERROR - error controlado en la prueba 3: este cliente ya está registrado en el sistema
+2026-10-27 22:43:14,674 - INFO - prueba 4: reserva creada con éxito para carlos pérez
+2026-10-27 22:43:14,674 - ERROR - error controlado en la prueba 5: el presupuesto no alcanza para cubrir el servicio
+2026-10-27 22:43:14,675 - INFO - prueba 6: reserva creada con éxito para ana gómez
+2026-10-27 22:43:14,675 - ERROR - error controlado en la prueba 7: el cliente no se encuentra registrado en el sistema
+2026-10-27 22:43:14,675 - ERROR - error controlado en la prueba 8: el servicio elegido no existe
+2026-10-27 22:43:14,676 - ERROR - error controlado en la prueba 9: el nombre del cliente no puede estar vacío
+2026-10-27 22:43:14,676 - INFO - prueba 10: reserva creada con éxito para ana gómez
+2026-10-27 22:43:15,296 - INFO - prueba 1: cliente registrado con éxito -> carlos pérez
+2026-10-27 22:43:15,296 - INFO - prueba 2: cliente registrado con éxito -> ana gómez
+2026-10-27 22:43:15,297 - ERROR - error controlado en la prueba 3: este cliente ya está registrado en el sistema
+2026-10-27 22:43:15,297 - INFO - prueba 4: reserva creada con éxito para carlos pérez
+2026-10-27 22:43:15,298 - ERROR - error controlado en la prueba 5: el presupuesto no alcanza para cubrir el servicio
+2026-10-27 22:43:15,298 - INFO - prueba 6: reserva creada con éxito para ana gómez
+2026-10-27 22:43:15,299 - ERROR - error controlado en la prueba 7: el cliente no se encuentra registrado en el sistema
+2026-10-27 22:43:15,299 - ERROR - error controlado en la prueba 8: el servicio elegido no existe
+2026-10-27 22:43:15,299 - ERROR - error controlado en la prueba 9: el nombre del cliente no puede estar vacío
+2026-10-27 22:43:15,300 - INFO - prueba 10: reserva creada con éxito para ana gómez
+2026-10-27 22:43:15,856 - INFO - prueba 1: cliente registrado con éxito -> carlos pérez
+2026-10-27 22:43:15,856 - INFO - prueba 2: cliente registrado con éxito -> ana gómez
+2026-10-27 22:43:15,857 - ERROR - error controlado en la prueba 3: este cliente ya está registrado en el sistema
+2026-10-27 22:43:15,857 - INFO - prueba 4: reserva creada con éxito para carlos pérez
+2026-10-27 22:43:15,858 - ERROR - error controlado en la prueba 5: el presupuesto no alcanza para cubrir el servicio
+2026-10-27 22:43:15,858 - INFO - prueba 6: reserva creada con éxito para ana gómez
+2026-10-27 22:43:15,858 - ERROR - error controlado en la prueba 7: el cliente no se encuentra registrado en el sistema
+2026-10-27 22:43:15,859 - ERROR - error controlado en la prueba 8: el servicio elegido no existe
+2026-10-27 22:43:15,859 - ERROR - error controlado en la prueba 9: el nombre del cliente no puede estar vacío
+2026-10-27 22:43:15,859 - INFO - prueba 10: reserva creada con éxito para ana gómez
